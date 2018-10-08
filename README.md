@@ -4,6 +4,7 @@ This video Demonstrates how to setup the UART in asynchronous 8-bit mode. Using 
 [![PIC Programming Tutorial #7 - UART](https://img.youtube.com/vi/pPmEWlIYByo/0.jpg)](https://www.youtube.com/watch?v=MiPxVmj_nHI "PIC Programming Tutorial #5 - Interrupts")
 
 <a href="https://amzn.to/2CzX8Wc">FTDI USB to Serial</a>
+
 <a href="https://amzn.to/2oTHRqm">PIC18f4520</a>
 
 <a href="https://amzn.to/2p2PsmV">PIC18f4520  (Alternative)</a>
