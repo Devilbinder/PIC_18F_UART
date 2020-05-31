@@ -9,6 +9,9 @@ This video Demonstrates how to setup the UART in asynchronous 8-bit mode. Using 
 Shekels: 
 https://www.paypal.me/bindertronics9/5
 
+Patreon:
+https://www.patreon.com/BinderTronics
+
 Bitcoin: 
 19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
 
